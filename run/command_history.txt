@@ -1,0 +1,2 @@
+/gamemode creative
+/give @a magest:test 1
